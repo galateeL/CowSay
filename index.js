@@ -1,5 +1,4 @@
 const infoWilder = require('./information');
-/*console.log(`Je suis ${infoWilder.wilder.name}`);*/
 
 const cowsay = require("cowsay");
 console.log(cowsay.say ({
